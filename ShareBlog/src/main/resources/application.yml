@@ -3,9 +3,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://120.24.21.21:3306/shareblog? useUnicode=true&characterEncoding=utf8
-    username: root
-    password: ywj123
+    url: jdbc:mysql://ip:address/shareblog? useUnicode=true&characterEncoding=utf8
+    username:
+    password: 
   servlet:
     multipart:
       max-file-size: 50MB
@@ -13,7 +13,7 @@ spring:
   application:
     name: file
   redis:
-    host: 120.24.21.21
+    host: ip
 # Mybatis-Plus 配置
 mybatis-plus:
   #  mapper-locations: classpath:/mapper/*Mapper.xml
@@ -36,7 +36,7 @@ jwt:
 #登录页面地址
 login:
   config:
-    url: http://120.24.21.21
+    url: ip
 
 #fastDFS
 fdfs:
@@ -46,4 +46,4 @@ fdfs:
     width: 150
     height: 150
   tracker-list:            #TrackerList参数,支持多个
-    - 120.24.21.21:22122
+    - ip:address
