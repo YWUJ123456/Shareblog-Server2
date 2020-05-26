@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Class-Path: mybatis-3.5.3.jar hibernate-validator-6.0.18.Final.jar spr
+ ing-boot-starter-validation-2.2.4.RELEASE.jar log4j-api-2.12.1.jar re
+ active-streams-1.0.3.jar spring-plugin-core-1.2.0.RELEASE.jar spring-
+ oxm-5.2.3.RELEASE.jar spring-tx-5.2.3.RELEASE.jar spring-data-keyvalu
+ e-2.2.4.RELEASE.jar jackson-datatype-jdk8-2.10.2.jar spring-data-redi
+ s-2.2.4.RELEASE.jar mybatis-plus-3.3.1.tmp.jar classmate-1.5.1.jar my
+ batis-plus-core-3.3.1.tmp.jar jakarta.annotation-api-1.3.5.jar lombok
+ -1.18.10.jar jsqlparser-3.1.jar tomcat-embed-websocket-9.0.30.jar jbo
+ ss-logging-3.4.1.Final.jar swagger-annotations-1.5.10.jar spring-boot
+ -starter-data-redis-2.2.4.RELEASE.jar tomcat-embed-el-9.0.30.jar jack
+ son-annotations-2.10.2.jar spring-aop-5.2.3.RELEASE.jar spring-expres
+ sion-5.2.3.RELEASE.jar netty-codec-4.1.45.Final.jar jakarta.validatio
+ n-api-2.0.2.jar springfox-spi-2.6.1.jar reactor-core-3.3.2.RELEASE.ja
+ r lettuce-core-5.2.1.RELEASE.jar slf4j-api-1.7.30.jar mybatis-plus-an
+ notation-3.3.1.tmp.jar commons-io-2.4.jar mybatis-plus-extension-3.3.
+ 1.tmp.jar jackson-module-parameter-names-2.10.2.jar commons-lang3-3.9
+ .jar spring-boot-starter-json-2.2.4.RELEASE.jar netty-resolver-4.1.45
+ .Final.jar mysql-connector-java-8.0.19.jar spring-plugin-metadata-1.2
+ .0.RELEASE.jar commons-collections-3.2.2.jar spring-webmvc-5.2.3.RELE
+ ASE.jar log4j-to-slf4j-2.12.1.jar jcl-over-slf4j-1.7.30.jar spring-co
+ ntext-support-5.2.3.RELEASE.jar spring-boot-starter-tomcat-2.2.4.RELE
+ ASE.jar mapstruct-1.0.0.Final.jar swagger-models-1.5.10.jar spring-we
+ b-5.2.3.RELEASE.jar springfox-swagger-ui-2.6.1.jar tomcat-embed-core-
+ 9.0.30.jar mybatis-spring-2.0.3.jar commons-beanutils-1.9.3.jar netty
+ -transport-4.1.45.Final.jar spring-boot-starter-logging-2.2.4.RELEASE
+ .jar jackson-core-2.10.2.jar netty-common-4.1.45.Final.jar springfox-
+ spring-web-2.6.1.jar springfox-schema-2.6.1.jar fastdfs-client-1.26.7
+ .jar HikariCP-3.4.2.jar springfox-swagger-common-2.6.1.jar guava-18.0
+ .jar netty-buffer-4.1.45.Final.jar snakeyaml-1.25.jar spring-boot-aut
+ oconfigure-2.2.4.RELEASE.jar commons-pool2-2.7.0.jar spring-data-comm
+ ons-2.2.4.RELEASE.jar thumbnailator-0.4.8.jar spring-boot-starter-jdb
+ c-2.2.4.RELEASE.jar jjwt-0.6.0.jar mybatis-plus-boot-starter-3.3.1.tm
+ p.jar logback-classic-1.2.3.jar spring-boot-configuration-processor-2
+ .2.4.RELEASE.jar logback-core-1.2.3.jar spring-jdbc-5.2.3.RELEASE.jar
+  spring-core-5.2.3.RELEASE.jar spring-beans-5.2.3.RELEASE.jar jackson
+ -datatype-jsr310-2.10.2.jar validation-api-2.0.1.Final.jar spring-con
+ text-5.2.3.RELEASE.jar jul-to-slf4j-1.7.30.jar spring-boot-starter-we
+ b-2.2.4.RELEASE.jar spring-boot-2.2.4.RELEASE.jar springfox-swagger2-
+ 2.6.1.jar netty-handler-4.1.45.Final.jar spring-jcl-5.2.3.RELEASE.jar
+  spring-boot-starter-2.2.4.RELEASE.jar jackson-databind-2.10.2.jar sp
+ ringfox-core-2.6.1.jar
+Main-Class: com.shareblog.ShareBlogApplication
+
